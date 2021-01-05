@@ -1,4 +1,4 @@
-## Hi, I'm [Aashwin](http://vatsaashwin.github.io/)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm [Aashwin](http://vatsaashwin.github.io/)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30px">
 
 I'm a software engineer who is passionate about creating innovative systems to elevate people and make a positive impact on their overall lifestyle. As a part of the Software Innovation Track at my university, I work on building novel, intuitive applications that showcase improvement in a significant way on existing systems. 
 
@@ -12,9 +12,9 @@ I'm always open to interesting conversations and collaboration; best reached via
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vatsaashwin&show_icons=true&theme=synthwave" alt="vatsaashwin" />
 
 #### Connect with me: 
-<span align='center'> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/aashwinvats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin in logo png" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/aashwin_vats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram logos png images free download" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AashwinVats22" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter logo vector png clipart" /></a></span> 
+<span align='center'> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/aashwinvats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/aashwin_vats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AashwinVats22" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" /></a></span> 
 
 ![](https://komarev.com/ghpvc/?username=vatsaashwin) 
 
