@@ -1,7 +1,10 @@
-## Hi, I'm [Aashwin](http://vatsaashwin.github.io/)! 👋 
+## Hi, I'm [Aashwin](http://vatsaashwin.github.io/)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm a software engineer who is passionate about creating innovative systems to elevate people and make a positive impact on their overall lifestyle. As a part of the Software Innovation Track at my university, I work on building novel, intuitive applications that showcase improvement in a significant way on existing systems. 
 
 - :books: I'm a Graduate Teaching Assistant for the course [Introduction to Usability Engineering](https://canvas.oregonstate.edu/courses/1798837/assignments/syllabus) at Oregon State University.
-- :seedling: Currently, I'm reading up on designing the architecture, components and interfaces for scalable systems.
+- :seedling: Currently, I'm reading up on designing the architecture, components, and interfaces for scalable systems.
+- :ski: When I'm on a break, I like to explore the beautiful Pacific Northwest, listen to interesting podcasts on technology or mindfulness, and pursue the latest hobbies I have picked up (have been enjoying skiing and swimming lately).
 - ♥ Community Development
 
 I'm always open to interesting conversations and collaboration; best reached via [email](aashwinvats@gmail.com). 
@@ -26,7 +29,6 @@ I'm always open to interesting conversations and collaboration; best reached via
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
-I'm a software engineer who is passionate about creating innovative applications to elevate people and make positive impact on their lifestyle. 
 
 -->
 
