@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about creating innovative systems to e
 - :ski: When I'm on a break, I like to explore the beautiful Pacific Northwest, listen to interesting podcasts on technology or mindfulness, and pursue the latest hobbies I have picked up (have been enjoying skiing and swimming lately).
 - ♥ Community Development
 
-I'm always open to interesting conversations and collaboration; best reached via [email](aashwinvats@gmail.com). 
+I'm always open to interesting conversations and collaboration; best reached via email. 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vatsaashwin&show_icons=true&theme=synthwave" alt="vatsaashwin" />
 
