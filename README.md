@@ -9,7 +9,6 @@ I'm a software engineer who is passionate about creating innovative systems to e
 
 I'm always open to interesting conversations and collaboration; best reached via email. 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vatsaashwin&show_icons=true&theme=synthwave" alt="vatsaashwin" />
 
 #### Connect with me: 
 <span align='center'> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/aashwinvats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" /></a>&nbsp;&nbsp;
