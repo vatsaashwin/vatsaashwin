@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about creating innovative systems to e
 - :ski: When I'm on a break, I like to explore the beautiful Pacific Northwest, listen to interesting podcasts on technology or mindfulness, and pursue the latest hobbies I have picked up (have been enjoying skiing and swimming lately).
 - ♥ Community Development
 
-I'm always open to interesting conversations and collaboration; best reached via email. 
+I'm always open to interesting conversations and collaboration, best reached via email. 
 
 #### Connect with me: 
 <span align='center'> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/aashwinvats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" /></a>&nbsp;&nbsp;
