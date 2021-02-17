@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about creating innovative systems to e
 - :books: I'm a Graduate Teaching Assistant for the course [Introduction to Usability Engineering](https://canvas.oregonstate.edu/courses/1798837/assignments/syllabus) at Oregon State University.
 - :seedling: Currently, I'm reading up on designing the architecture, components, and interfaces for scalable systems.
 - :ski: When I'm on a break, I like to explore the beautiful Pacific Northwest, listen to interesting podcasts on technology or mindfulness, and pursue the latest hobbies I have picked up (have been enjoying skiing and swimming lately).
-- ♥ Community Development
+- ♥ Community is everything.
 
 I'm always open to interesting conversations and collaboration, best reached via email. 
 
