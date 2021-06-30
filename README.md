@@ -12,7 +12,6 @@ I'm always open to interesting conversations and collaboration, best reached via
 #### Connect with me: 
 <span align='center'> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/aashwinvats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aashwin_vats/" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AashwinVats22" title="Image from freepnglogos.com"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" /></a></span> 
 
 ![](https://komarev.com/ghpvc/?username=vatsaashwin) 
 
